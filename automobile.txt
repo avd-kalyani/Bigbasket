@@ -1,0 +1,6 @@
+vivo
+readme
+samsung
+max
+nokia
+
